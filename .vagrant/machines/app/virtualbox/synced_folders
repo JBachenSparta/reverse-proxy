@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/ubuntu/app":{"guestpath":"/home/ubuntu/app","hostpath":"/Users/tech-a60/Documents/engineering-29/devops/week8/day3/starter-code-env-var-lab/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a60/Documents/engineering-29/devops/week8/day3/starter-code-env-var-lab","disabled":false,"__vagrantfile":true}}}
